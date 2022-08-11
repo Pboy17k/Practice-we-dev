@@ -156,3 +156,8 @@ adress p{
 }.copyright p{
     margin: 0px;
 }
+.content img{
+    width: 710px;
+    height: 600px;
+    padding-bottom: 15px;
+}
