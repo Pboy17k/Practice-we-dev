@@ -192,6 +192,7 @@ adress p{
     width: 20px; 
     height: auto;
     border-radius: 5px;
+
     
   }  
   .fa-facebook {  
@@ -222,3 +223,9 @@ adress p{
     font-weight: bold;
     margin-top: 5px;
   }
+  .readmore > a:hover{
+    background-color: orange;
+}
+.Paragraph a:hover{
+    background-color: orange;
+}
